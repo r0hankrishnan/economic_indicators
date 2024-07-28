@@ -10,5 +10,5 @@
 ## Introduction
 The US economy is a large and complex web of indicators, applications, measures, and more. Using data from the Federal Reserve of St. Louis and the US Census Bureau, I created a Tableau Dashboard to visualize some key economic indicators as well as how they compare to the previous year.
 
-[!Dashboard Image](./assets/Dashboard-Image)
+[!Dashboard Image](./assets/Dashboard-image)
 
