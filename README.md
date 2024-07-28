@@ -1,6 +1,8 @@
 # US Economic Indicators Data Cleaning & Visualization
 *To embed and display my Tableau dashboard, I followed the instructions and used the code of dinkwiz. [Here is a link to the (super useful and well documented) repo!](https://github.com/dinkwiz/tableau_embed/tree/master)*
 
+<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/app/profile/rohan.krishnan4713/viz/USEconomicIndicators_17221171521810/Dashboard1"/>
+
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Data Collection](#data-collection)
