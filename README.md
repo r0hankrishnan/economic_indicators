@@ -1,7 +1,7 @@
 # US Economic Indicators Data Cleaning & Visualization
 *To embed and display my Tableau dashboard, I followed the instructions and used the code of dinkwiz. [Here is a link to the (super useful and well documented) repo!](https://github.com/dinkwiz/tableau_embed/tree/master)*
 
-<iframe align = "center" width = "1000" height = "1000" src="https://public.tableau.com/app/profile/rohan.krishnan4713/viz/USEconomicIndicators_17221171521810/Dashboard1"/>
+![Dashboard Image](/assets/Dashboard-image.png)
 
 ## Table of Contents
 1. [Introduction](#introduction)
@@ -11,8 +11,6 @@
 
 ## Introduction
 The US economy is a large and complex web of indicators, applications, measures, and more. Using data from the St. Louis Federal Reserve (FRED) and the US Census Bureau, I created a Tableau Dashboard to visualize some key economic indicators as well as how they compare to the previous year.
-
-![Dashboard Image](/assets/Dashboard-image.png)
 
 ## Data Collection
 As I was collecting data, I started with a base economic indicator data set downloaded from the U.S. Census Bureau's [website](https://www.census.gov/economic-indicators/). This data set contained values for indicators like the number of new orders of durable goods, wholesale inventory, retail inventory, etc. I supplemented that information with several key indices and macroeconomic measures downloaded from the St. Louis Federal Reserve's [website](https://fred.stlouisfed.org/). I added measures including Real GDP, unemployment, and median CPI. All data except Real GDP was measured monthly. 
