@@ -8,7 +8,7 @@ const url = "https://public.tableau.com/views/USEconomicIndicators_1722117152181
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 800,
+    height: 1000,
     width: 1200,
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
